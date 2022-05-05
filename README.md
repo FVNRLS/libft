@@ -5,7 +5,7 @@ The project goal was to mimic the behaviour of basic standard C functions in ord
 
 The bonus part is basically dedicated to the basic understanding of working with structures.
 
-The project was completed with 125% (incl. bonuspart) and will be extended with additional functions as needed.
+The project was graded with 125% and will be extended with additional functions as needed.
 
 
 **IMPORTANT:**
