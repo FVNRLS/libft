@@ -7,14 +7,17 @@ The bonus part is basically dedicated to the basic understanding of working with
 
 The project was completed with 125% (incl. bonuspart) and will be extended with additional functions as needed.
 
+
 **IMPORTANT:**
 
 The additional functions are stored under the folder 'additional_functions' and don't belong to the project.
+
 
 **To create libft.a without bonus part, run:**
 
 cd ./libft
 make all 
+
 
 **To create libft.a with the bonus part, run:**
 
