@@ -26,6 +26,6 @@ To create libft.a with the bonus part, run:
 
 <br>**IMPORTANT:**
 
-The additional functions are stored under the folder 'additional_functions' 
+Additional functions are stored under the folder 'additional_functions' 
 and don't belong to the actual 42 project.
 
